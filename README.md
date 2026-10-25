@@ -91,6 +91,7 @@ python -m pip install -r requirements.txt
 ### 4. Launch the application
 
 ```bash
+.\.venv\Scripts\Activate.ps1
 python -m streamlit run app.py
 ```
 
